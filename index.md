@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Header 1
-
 Content.
 
 ## Header 1.1
