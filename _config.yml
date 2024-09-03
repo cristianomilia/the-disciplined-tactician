@@ -4,3 +4,4 @@ plugins:
 title: The Disciplined Tactician.
 description: (A curated collection of the rants of)
 show_downloads: false
+dateFormat: "%Y-%m-%d"
