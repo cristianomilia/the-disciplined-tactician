@@ -1,6 +1,5 @@
 ---
 layout: default
-title: The Disciplined Tactician.
 ---
 
 # Header 1

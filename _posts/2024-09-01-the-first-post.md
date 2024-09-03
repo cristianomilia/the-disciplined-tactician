@@ -1,6 +1,6 @@
 ---
-title: "The First Post"
+title: "Let 'em peep in"
+description: "(or: Observability by Design)"
 date: 2024-09-01
 ---
 
-I guess what would happen if the `date` here is not consistent with the filename of the page.
