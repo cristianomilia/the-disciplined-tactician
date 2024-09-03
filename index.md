@@ -16,3 +16,7 @@ Other content.
 Yet another bit of content.
 
 And yet more.
+
+{% for post in site.posts %}
+...
+{% endfor %}
