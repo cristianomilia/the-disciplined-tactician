@@ -3,8 +3,6 @@ layout: default
 title: The Disciplined Tactician.
 ---
 
-# Header 1
-
 Content.
 
 ## Header 1.1
