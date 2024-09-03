@@ -1,4 +1,5 @@
 ---
+layout: custom
 title: The Disciplined Tactician.
 ---
 

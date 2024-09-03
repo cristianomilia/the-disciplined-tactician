@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.page-content {
+  flex: 1;
+}
