@@ -17,6 +17,10 @@ Yet another bit of content.
 
 And yet more.
 
-{% for post in site.posts %}
-...
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
