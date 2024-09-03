@@ -40,11 +40,11 @@
   </body>
   
   <aside class="sidebar">
-    <h2>Elenco dei post</h2>
+    <h2>List of posts</h2>
     <ul>
       {% for post in site.posts %}
         <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.date | date: site.dateFormat }} {{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
